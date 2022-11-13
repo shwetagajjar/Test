@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "PvaLt89HW41Y77lvdMOt/ya4fSw/XzaCTPkp3v/QFYE9YA8e0Y2I5g1BmIXtQDbhPFS41NOxZ5g2DGsJKn2/eQ==",
+  "success": true,
+  "projectFilePath": "/Users/shweta.gajjar/Documents/Test/Shweta_upload/Shweta_upload.csproj",
+  "expectedPackageFiles": [
+    "/Users/shweta.gajjar/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/mstest.testadapter/2.2.10/mstest.testadapter.2.2.10.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/mstest.testframework/2.2.10/mstest.testframework.2.2.10.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/selenium.support/4.6.0/selenium.support.4.6.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/selenium.webdriver/4.6.0/selenium.webdriver.4.6.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.diagnostics.textwritertracelistener/4.3.0/system.diagnostics.textwritertracelistener.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.diagnostics.tracesource/4.3.0/system.diagnostics.tracesource.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.resources.resourcemanager/4.3.0/system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
+    "/Users/shweta.gajjar/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
